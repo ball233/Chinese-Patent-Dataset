@@ -1,2 +1,6 @@
 # Chinese-Patent-Dataset
-MLE-KPE: 一种融合大模型的多阶段中文专利关键词提取方法(MLE-KPE: A Multi-Stage LLM-Enhanced Method for Chinese Patent Keyword Extraction)
+MLE-KPE: 一种融合大模型的多阶段中文专利关键词提取方法
+MLE-KPE: A Multi-Stage LLM-Enhanced Method for Chinese Patent Keyword Extraction
+
+本数据集为中文专利数据集，用于中文专利关键词提取任务，其数据由专利信息、关键词、摘要和说明书组成，说明书文本平均长度为2847，覆盖了新一代信息技术产业领域、新能源领域和生物医药领域，训练集、验证集和测试集比例为8:1:1。
+鉴于数据涉及合作代理机构的专利，因知识产权等原因，我们暂时无法公开发布完整的原始数据集，恳请您的理解。为提高研究的透明度与可复现性，我们已公开了经脱敏与筛选处理的部分样本数据集，以便相关研究者参考与复现相关实验，后续我们会逐步增大公开数据集的规模。
